@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Saruf\\.nuget\\packages\\": {}
+    "C:\\Users\\Saruf\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saruf\\Downloads\\auth-net8-main\\auth-net8-main\\Project\\Project.Domain\\Project.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Saruf\\Downloads\\New folder (2)\\Badge-\\Project.Domain\\Project.Domain.csproj",
       "projectName": "Project.Domain",
-      "projectPath": "C:\\Users\\Saruf\\Downloads\\auth-net8-main\\auth-net8-main\\Project\\Project.Domain\\Project.Domain.csproj",
+      "projectPath": "C:\\Users\\Saruf\\Downloads\\New folder (2)\\Badge-\\Project.Domain\\Project.Domain.csproj",
       "packagesPath": "C:\\Users\\Saruf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saruf\\Downloads\\auth-net8-main\\auth-net8-main\\Project\\Project.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Saruf\\Downloads\\New folder (2)\\Badge-\\Project.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Saruf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

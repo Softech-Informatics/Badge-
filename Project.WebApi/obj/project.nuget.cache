@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3+Z/9xqpBx0=",
+  "dgSpecHash": "U4iWffo5Mg0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saruf\\Downloads\\auth-net8-main\\auth-net8-main\\Project\\Project.WebApi\\Project.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Saruf\\Downloads\\New folder (2)\\Badge-\\Project.WebApi\\Project.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saruf\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Saruf\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
@@ -97,12 +97,6 @@
     "C:\\Users\\Saruf\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    },
     {
       "code": "NU1701",
       "level": "Warning",
